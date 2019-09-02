@@ -1,0 +1,26 @@
+*.class
+
+#pacakage file
+*.war
+*.ear
+
+#ddiff3 ignore
+*.orig
+
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#system ignore
+.DS_Store
+Thumbd.db
